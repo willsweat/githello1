@@ -1,0 +1,5 @@
+{
+	"imports": {
+		"moment": "https://jspm.dev/npm:moment@2.29.1!cjs"
+	}
+}
