@@ -1,0 +1,9 @@
+entryPoint: myEdgeFunction
+jsConfig: {}
+language: js
+name: githello1
+runtime: default
+srcFolder: ./src
+webhook:
+  branch: main
+  repo_url: https://github.com/willsweat/githello1.git
