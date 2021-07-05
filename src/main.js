@@ -1,4 +1,5 @@
 import { cube } from "./lib/math.js";
+import { moment } from "moment";
 
 export default function myEdgeFunction(req, res) {
    const result = cube(Math.PI);
