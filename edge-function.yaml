@@ -6,4 +6,4 @@ runtime: default
 srcFolder: ./src
 webhook:
   branch: main
-  repo_url: https://github.com/willsweat/githello1.git
+  repo_url: https://github.com/willsweat/githello1
