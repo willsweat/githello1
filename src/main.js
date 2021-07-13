@@ -16,5 +16,5 @@ export default function myEdgeFunction(req, res) {
    res.headers.append("x-append", "bar");
    // you can chain status and send
    // status function param type can be a number or a string
-   res.status('200').send(`Welcome to EdgeCast PI Cubed: ${result} `);
+   res.status('200').send(`Welcome to EdgeCast PI Cubed: ${result} \n`);
 }
